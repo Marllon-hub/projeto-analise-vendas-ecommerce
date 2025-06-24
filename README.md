@@ -1,2 +1,1 @@
-# projeto-analise-vendas-ecommerce
-📊 Projeto de Análise de Vendas – Loja de E-commerce
+Análise de vendas de uma loja de e-commerce fictícia utilizando Python para análise exploratória e Power BI para criação de dashboard interativo. Projeto desenvolvido para portfólio de dados, com foco em indicadores de vendas, sazonalidade, comportamento dos clientes e insights de negócios.
